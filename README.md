@@ -14,9 +14,9 @@
 
 ---
 
-## 📈 Experience Highlights
+## 💼 Work Experience
 
-🧾 **Business Process Automation Specialist** @ UBC Sustainability Hub  
+**Business Process Automation Specialist** @ UBC Sustainability Hub  
   - Automated key segments of the recruitment process, reducing processing time from 3 hours to 5 minutes by implementing UiPath workflows for employment document creation, organization, and distribution.
   - Delivered presentations to managers, utilizing Lucidchart to visually map the recruitment workflow, ensuring a deep understanding of the process, facilitating discussions, and identifying bottlenecks to gather precise requirements.
   - Developed and deployed three key RPA processes for quality control, automating the generation and emailing of
